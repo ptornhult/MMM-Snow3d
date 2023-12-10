@@ -7,6 +7,6 @@
 
 Module.register("MMM-Snow3d", {
   getScripts: function () {
-    return [this.file("snow3d.js")];
+    return ["https://cdn.jsdelivr.net/npm/christmas-snow-3d/build/snow3d.js"];
   },
 });
