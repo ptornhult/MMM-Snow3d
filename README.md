@@ -1,4 +1,4 @@
-# Module: MMM-Snow
+# Module: MMM-Snow3d
 
 Inspired by [fnpen's christmas-snow-3d](https://github.com/fnpen/christmas-snow-3d) I created a little more realistic snow plugin to improve your winter experience!
 
